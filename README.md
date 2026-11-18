@@ -1,6 +1,6 @@
 # PTracker — Goals, Tasks & Opportunity Tracker
 
-PLACEHOLDER_BANNER
+> 🏆 **HACKATHON WINNER — 1st PLACE — NEXUS** | Organized by the IEEE committee.
 
 
 A mobile-style PWA for tracking goals, tasks and milestones — plus an
