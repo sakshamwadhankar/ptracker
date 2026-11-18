@@ -1,5 +1,8 @@
 # PTracker — Goals, Tasks & Opportunity Tracker
 
+> 🏆 **HACKATHON WINNER — 1st PLACE** | Organized by a partner college/committee.
+
+
 A mobile-style PWA for tracking goals, tasks and milestones — plus an
 **Opportunities section** that aggregates internships and jobs from 20+
 sources and matches them to each user's career profile.
