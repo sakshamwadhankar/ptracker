@@ -1,6 +1,6 @@
 # PTracker — Goals, Tasks & Opportunity Tracker
 
-> 🏆 **HACKATHON WINNER — 1st PLACE** | Organized by a partner college/committee.
+PLACEHOLDER_BANNER
 
 
 A mobile-style PWA for tracking goals, tasks and milestones — plus an
